@@ -119,6 +119,9 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 
 1. We're going to use these two delightful before-after photos
 ![](https://github.com/lenagroeger/photoshop/blob/master/screengrabs/taxidermyB&A.jpg)
+
+Download both of these images: [Image 1](https://raw.githubusercontent.com/lenagroeger/photoshop/master/zipped/taxidermy1.jpeg) and [Image 2](https://raw.githubusercontent.com/lenagroeger/photoshop/master/zipped/taxidermy2.jpeg)
+
 [Full back story](http://www.nydailynews.com/life-style/real-estate/brokers-digital-trickery-sell-drab-apartments-article-1.1885998), and [a related something you should read on the trip home from IRE](http://www.susanorlean.com/articles/lifelike.html).
 
 2. Open up Photoshop, and go to Window > Timeline.
