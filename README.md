@@ -1,4 +1,4 @@
-# photoshop
+# Photoshop: Tips & Tricks & Magic Tools
 
 In this session, we'll learn:
 
