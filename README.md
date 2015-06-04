@@ -190,7 +190,7 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 
 9. Select **File > Save for Web**
 10. Select Gif as your save format. At the bottom of the window, you'll also be able to set the number of times you'd like the animation to loop. For a homepage promo, it might not be appropriate to loop infinitely. Let's set it to loop 3 times.
-  ![](https://github.com/lenagroeger/photoshop/screengrabs/ukraine.gif)
+  ![](https://github.com/lenagroeger/photoshop/blob/master/screengrabs/ukraine.gif)
 
 11. Save and you're done. Woot!
 
