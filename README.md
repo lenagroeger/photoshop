@@ -1,4 +1,5 @@
 # Photoshop: Tips & Tricks & Magic Tools
+by [Lena Groeger](https://twitter.com/lenagroeger) & [Chris Canipe](https://twitter.com/ccanipe)
 
 In this session, we'll learn:
 
@@ -6,6 +7,7 @@ In this session, we'll learn:
 2. How to create [**Droplets**](https://github.com/lenagroeger/photoshop#droplets) for Actions you use regularly
 3. How to make [**Animated Gifs**](https://github.com/lenagroeger/photoshop#animated-gif-simple-2-photo-animation) (including [multi-photo](https://github.com/lenagroeger/photoshop#animated-gif-multiple-photo-animation) and [video](https://github.com/lenagroeger/photoshop#animated-gif-video-animation) versions).
 4. How to use [**Magical Tools**](https://github.com/lenagroeger/photoshop#more-magic-in-photoshop-perspective-crop-and-content-aware-fill) like perspective crop and content-aware fill
+
 
 
 
